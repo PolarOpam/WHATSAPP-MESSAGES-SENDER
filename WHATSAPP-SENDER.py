@@ -14,7 +14,7 @@ bugs = '''
 | | (_| |\ V  V / |  _  |/ ___ \| |  ___) / ___ \|  __/|  __/ 
  \ \__,_| \_/\_/  |_| |_/_/   \_\_| |____/_/   \_\_|   |_|    
   \____/                                                      
-\n[$] BUGS GEARBEST VALID EMAIL CHECKER.
+\n[$] BUGS WHATSAPP MESSAGES SENDER.
 [$] URL = ('https://www.Brazzers.com/').
 [$] SCRIPT PROGRAMMED BY BUGS WITH PYTHON2.
 '''
@@ -22,7 +22,7 @@ bugs = '''
 # ( -- PROGRAMMED BY @BUGS -- ) #
 #################################
 
-# ( -- FULL API SCRIPT -- ) #
+# ( -- FULL SCRIPT -- ) #
 
 print bugs
 driver = webdriver.Chrome('')
