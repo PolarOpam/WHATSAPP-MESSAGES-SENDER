@@ -23,6 +23,6 @@ WHATSAPP SELENIUM AUTO MESSAGES SENDER [arabic/english].
 
 //IF YOU WANT TO SEE MY SCRIPTS [ VISIT MY ACC ON GITHUB [@SIRBUGS] ].
 
-//PROGRAMMED WITH [ S I R . B U G S ].
+//PROGRAMMED BY [ S I R . B U G S ].
 
 ----------------------------------------------------------------
